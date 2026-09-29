@@ -1,0 +1,6 @@
+{
+  "name": "SkillCred — Smart Training & Skill Verification Ecosystem",
+  "description": "Ministry of Cooperation & NCCT (SIH26087) platform linking Training ERP, Multilingual LMS, IoT Smart Verification Hub, AI Competency Analysis, and Employer Job Matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
